@@ -1,12 +1,30 @@
-# 🌦 Weather App
+🌦️ Weather App
 
-A simple and modern weather application that shows the current weather conditions for any city using the **OpenWeatherMap API**(React and JS).
+A responsive React.js Weather Application that fetches real-time weather data from the OpenWeatherMap API.
+The app allows users to search for any city and instantly view details such as temperature, weather condition, humidity, and wind speed — all presented in a clean modern UI.
 
-## 🚀 Features
-- 🌡 Displays temperature, weather condition, and humidity
-- 📱 Responsive design for mobile & desktop
+🚀 Features
 
-## 🛠 Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Kerolos2023/weather-app.git
+🔍 Search for any city worldwide
+
+🌡️ Display current temperature, humidity, and wind speed
+
+☁️ Dynamic weather icons and background changes
+
+📱 Fully responsive UI (works on mobile, tablet, and desktop)
+
+⚡ Built with React Hooks and Axios for data fetching
+
+🧠 Technologies Used
+
+React.js
+
+Axios (for API requests)
+
+OpenWeatherMap API
+
+
+  
+Demo
+
+https://remarkable-sprinkles-4d4ed1.netlify.app/
