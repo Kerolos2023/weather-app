@@ -27,4 +27,4 @@ OpenWeatherMap API
   
 Demo
 
-https://remarkable-sprinkles-4d4ed1.netlify.app/
+https://chimerical-malasada-3f0953.netlify.app/
