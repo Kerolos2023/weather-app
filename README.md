@@ -26,4 +26,4 @@ OpenWeatherMap API
 
 
 Demo
-https://storied-gaufre-c17daf.netlify.app/
+http://mellow-nougat-93e9ff.netlify.app/
